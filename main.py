@@ -9,3 +9,4 @@ if __name__ == "__main__":
     print("Let's go!!")
     print("---------")
     print("Are you ready?")
+    print("---------")
